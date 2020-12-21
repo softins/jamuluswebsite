@@ -15,7 +15,7 @@ permalink: "/wiki/Server-Linux"
 
 If you plan to run a server on your desktop machine (and you have installed the Jamulus client already), you can run it in your chosen [server mode](Choosing-a-Server-Type) by running Jamulus with the `-s` option as follows:
 
-1. Open a terminal window (`CTRL+ALT+t` on Ubuntu and related distros).
+1. Open a terminal window (`CTRL+ALT+T` on Ubuntu and related distros).
 1. Assuming Jamulus is in `/usr/local/bin`, type `Jamulus -s`
 
 Hit return and you should see the server control window. You can stop the server by closing the server window, or by typing CTRL+C in the terminal.
@@ -26,7 +26,7 @@ See also [Command Line Options](Command-Line-Options) for other parameters you c
 
 ## Running a "headless" server
 
-The following guide is for running Jamulus as a "pure" server on **hardware without audio** (e.g. on a 3rd party/cloud host) and assumes Ubuntu/Debian distributions using systemd. We also have instructions for [Raspberry Pi](Server-Rpi), which rock too.
+The following guide is for running Jamulus as a "pure" server on **hardware without audio** (e.g. on a 3rd party/cloud host) and assumes Ubuntu/Debian distributions using systemd.
 
 * _Jamulus user [Grigory](https://sourceforge.net/u/cidnurg/profile/) maintains a **[Docker image for Jamulus](https://hub.docker.com/r/grundic/jamulus)** which you can use._
 
@@ -34,7 +34,7 @@ The following guide is for running Jamulus as a "pure" server on **hardware with
 ### Compile sources, create a user
 
 
-1. [Get the sources](Installation-for-Linux#get-jamulus-sources), install the [dependent packages](Installation-for-Linux#install-dependencies) according to the Linux client install guide. Note that **you don't need to install the JACK package(s)** for a headless build. _If you plan to run headless on Gentoo, or are compiling under Ubuntu for use on another Ubuntu machine, [see the footnote](#what-does-the-headless-build-flag-do)._
+1. **Compile Jamulus:** [Get the sources](Installation-for-Linux#get-jamulus-sources), install the [dependent packages](Installation-for-Linux#install-dependencies) according to the Linux client install guide. Note that **you don't need to install the JACK package(s)** for a headless build. _If you plan to run headless on Gentoo, or are compiling under Ubuntu for use on another Ubuntu machine, and want to save some space, [see the footnote](#what-does-the-headless-build-flag-do)._
 1. Compile the sources to ignore the JACK sound library:
 
 ~~~
@@ -61,7 +61,7 @@ The unit file applies high priority CPU and I/O scheduling to the server process
 
 Note also that the server log entries will go to journalctl (use [journald](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs) to see it ).
 
-**Note**: The rest of this guide assumes you are in "public" mode using the `-e` (`--centralserver`) option. This specifies which musical genre list your server will appear in. See [the list of available genres here](Central-Servers)).
+**Note**: The rest of this guide assumes you are in "private" mode. (If you want to use it in public mode, use the `-e` (`--centralserver`) and `-o` option with a server. `-e` specifies which musical genre list your server will appear in and `-o` some server information. See [the list of available genres here](Central-Servers) and [Command Line Options](Command-Line-Options) for other parameters you can set.)
 
 ~~~
 [Unit]
@@ -79,9 +79,8 @@ Nice=-20
 IOSchedulingClass=realtime
 IOSchedulingPriority=0
 
-#### Change this to set genre, location and other parameters.
 #### See [Command-Line-Options](Command-Line-Options) ####
-ExecStart=/usr/local/bin/Jamulus -s -n -e jamulus.fischvolk.de -o "yourServerName;yourCity;[country ID]"
+ExecStart=/usr/local/bin/Jamulus -s -n
 
 Restart=on-failure
 RestartSec=30
@@ -117,13 +116,11 @@ You should see something like this:
  Main PID: 1308 (Jamulus)
     Tasks: 2 (limit: 4915)
    CGroup: /system.slice/jamulus.service
-           └─1308 /usr/local/bin/Jamulus -s -n -e jamulus.fischvolk.de -o yourServerName;yourCity;[country ID]
+           └─1308 /usr/local/bin/Jamulus -s -n
 
 Mar 26 11:52:34 oddjob systemd[1]: Started jamulus.service.
 Mar 26 11:52:35 oddjob jamulus[1308]: - server mode chosen
 Mar 26 11:52:35 oddjob jamulus[1308]: - no GUI mode chosen
-Mar 26 11:52:35 oddjob jamulus[1308]: - central server: jamulus.fischvolk.de
-Mar 26 11:52:35 oddjob jamulus[1308]: - server info: yourServerName;yourCity;[country ID]
 Mar 26 11:52:35 oddjob jamulus[1308]: - welcome message: Thanks for connecting!
 Mar 26 11:52:35 oddjob jamulus[1308]:  *** Jamulus, Version [version]
 Mar 26 11:52:35 oddjob jamulus[1308]:  *** Internet Jam Session Software

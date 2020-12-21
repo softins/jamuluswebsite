@@ -44,13 +44,9 @@ A typical jam might have 4 people, for which you would need 200 Kbit/s * 4 = 800
 ### In general
 
 - Consider using a cloud host to get better ping times if you having problems
-
 - Any server should have at least 1.6GHz CPU frequency and 1GB RAM
-
 - Running a server may require you to adjust any firewalls running on or outside of your machine or cloud host.
-
 - Running a **private server at home** (but not a public one) will require you to [port forward](Running-a-Private-Server) on your router.
-
 - Jamulus doesn't currently support IPv6
 
 
