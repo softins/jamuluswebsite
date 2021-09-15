@@ -1,12 +1,23 @@
-# wiki folder
+# Wiki folder
 
-This folder holds all translated wiki pages sorted by language (en=English, es=Spanish, etc.).
+This folder holds the website documents in English that are also used as the source for all translations. Any documents that do not require translation should be stored in the folder `en-no-translate`.
 
-## Translate
+## Editing/adding content
 
--   Copy the file you want to translate from e.g. en/ into the folder for your language code (es, de, ...).
--   set the lang: parameter to your language code in the front matter (between at the top of the file `---`) and make sure the permalink: parameter is the same.
+Edit the (English) .md files as normal. When the changes are completed and ready to be translated, make a pull request to the corresponding branch. When your changes get merged, a GitHub action will run that will update the .po files for all languages, which will now contain the changes ready for translation. If you are correcting typos, after merging your PR you will need to pull in the changes to your branch, open the corresponding .po file for each language and validate that segment (the editor will insert the translation automatically but it needs to be validated), otherwise the final translated document will display that segment in English. Throrough proofreading before running the script is advised to avoid having to do this.
 
-### Translate new language
+If you add a new file to the wiki/en folder, the GH action triggered by the PR will create the new file in .po format for all languages. If you wish to remove a file however, the corresponding .po files must be removed manually from all the language folders in `_translator-files/po/`.
 
-Copy e.g. the en/ folder, translate the content to your language, set the lang: attribute in the front matter of every file to lang: yourlanguagecode and move it into the folder. Don't touch the permalink since it links other pages in other languages to your language. You do **not** need to translate (and copy) every file (since polyglot, the translation plugin, automatically includes a default language fallback for pages). However, you do need to create page translations in \_data/ (where the navigation lives) and in especially in **\_includes**. See the READEME.md files in these folders for short descriptions.
+## Generating .md files from the translated .po files
+
+The translated files are created via a GitHub action right before the website is built and deployed, and are not stored in the repo. If you want to set a threshold below which translated .md files do not get created, edit `THRESHOLD` at the top of the `po4a-create-all-targets.sh` script in `_po4a-tools/`and change the number to the percentage you want to set. The default has been set at 80%.
+
+### Using po4a locally to update templates/create translated .md files
+
+In order to run the `po4a-update-templates.sh` and `po4a-create-all-targets.sh` scripts locally, you will need to do so on a Linux distro with `po4a` installed. The minimum version required is 0.63, which may not be available from official repos. An unofficial .deb package is available [here](https://github.com/jamulussoftware/assets/tree/main/po4a). You can also compile it yourself - visit [its GitHub page](https://github.com/mquinson/po4a). Instructions can be found there on compiling po4a.
+
+### Notes:
+
+- If you want something displayed on a new line immediately below one that does not end with a period, the second line must start with a space; e.g. if you want a line break after } or ). For code blocks introduced with ``` or ~~~, these characters must be followed by a line break (enter) and a space at the start of the next line. The closing formatting characters should be on their own line too.
+- Headings introduced with # must have double spacing before the text body.
+- Any corrections made to languages other than EN **must** be done to their .po files. Directly editing .md files won't break anything but any changes done that way will be lost the next time `po4a-create-all-targets.sh` is run.
