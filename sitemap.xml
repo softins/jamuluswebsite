@@ -8,6 +8,30 @@
             
         
             
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/" />
+            
+        
+            
               <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/" />
             
         
@@ -23,12 +47,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -49,6 +69,30 @@
             
         
             
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/contribute/Administration" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/contribute/Administration" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/contribute/Administration" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/contribute/Administration" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/contribute/Administration" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/contribute/Administration" />
+            
+        
+            
               <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/contribute/Administration" />
             
         
@@ -64,12 +108,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/contribute/Administration" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/contribute/Administration" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -77,47 +117,36 @@
       </url>
     
   
-    
-  
-    
-      <url>
-        <loc>https://jamulus.io/wiki/Choosing-a-Server-Type</loc>
-        
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Choosing-a-Server-Type" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Choosing-a-Server-Type" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Choosing-a-Server-Type" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Choosing-a-Server-Type" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Choosing-a-Server-Type" />
-            
-        
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
-        
-        
-          <priority>0.3</priority>
-        
-      </url>
     
   
     
       <url>
         <loc>https://jamulus.io/wiki/Client-Troubleshooting</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Client-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Client-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Client-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Client-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Client-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Client-Troubleshooting" />
             
         
             
@@ -136,12 +165,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Client-Troubleshooting" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Client-Troubleshooting" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -153,6 +178,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Command-Line-Options</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Command-Line-Options" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Command-Line-Options" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Command-Line-Options" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Command-Line-Options" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Command-Line-Options" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Command-Line-Options" />
             
         
             
@@ -171,12 +220,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Command-Line-Options" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Command-Line-Options" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -190,6 +235,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Contribution</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Contribution" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Contribution" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Contribution" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Contribution" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Contribution" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Contribution" />
             
         
             
@@ -208,12 +277,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Contribution" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Contribution" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -225,6 +290,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Demos</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Demos" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Demos" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Demos" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Demos" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Demos" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Demos" />
             
         
             
@@ -243,12 +332,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Demos" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Demos" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -258,43 +343,89 @@
   
     
       <url>
-        <loc>https://jamulus.io/wiki/Directory-Servers</loc>
+        <loc>https://jamulus.io/wiki/Directories</loc>
         
             
         
             
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Directory-Servers" />
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Directories" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Directory-Servers" />
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Directories" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Directory-Servers" />
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Directories" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Directory-Servers" />
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Directories" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Directory-Servers" />
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Directories" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Directories" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Directories" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Directories" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Directories" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Directories" />
             
         
         
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
         
       </url>
+    
+  
     
   
     
       <url>
         <loc>https://jamulus.io/wiki/FAQ</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/FAQ" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/FAQ" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/FAQ" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/FAQ" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/FAQ" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/FAQ" />
             
         
             
@@ -313,12 +444,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/FAQ" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/FAQ" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -330,6 +457,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Getting-Started</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Getting-Started" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Getting-Started" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Getting-Started" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Getting-Started" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Getting-Started" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Getting-Started" />
             
         
             
@@ -348,12 +499,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Getting-Started" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Getting-Started" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -361,45 +508,36 @@
       </url>
     
   
-    
-      <url>
-        <loc>https://jamulus.io/wiki/Hardware-Setup</loc>
-        
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Hardware-Setup" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Hardware-Setup" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Hardware-Setup" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Hardware-Setup" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Hardware-Setup" />
-            
-        
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
-        
-        
-          <priority>0.3</priority>
-        
-      </url>
     
   
     
       <url>
         <loc>https://jamulus.io/wiki/Installation-for-Android</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Installation-for-Android" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Installation-for-Android" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Installation-for-Android" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Installation-for-Android" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Installation-for-Android" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Installation-for-Android" />
             
         
             
@@ -418,12 +556,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Installation-for-Android" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Installation-for-Android" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -435,6 +569,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Installation-for-Linux</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Installation-for-Linux" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Installation-for-Linux" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Installation-for-Linux" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Installation-for-Linux" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Installation-for-Linux" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Installation-for-Linux" />
             
         
             
@@ -453,12 +611,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Installation-for-Linux" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Installation-for-Linux" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -470,6 +624,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Installation-for-Macintosh</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Installation-for-Macintosh" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Installation-for-Macintosh" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Installation-for-Macintosh" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Installation-for-Macintosh" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Installation-for-Macintosh" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Installation-for-Macintosh" />
             
         
             
@@ -488,12 +666,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Installation-for-Macintosh" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Installation-for-Macintosh" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -505,6 +679,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Installation-for-Windows</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Installation-for-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Installation-for-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Installation-for-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Installation-for-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Installation-for-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Installation-for-Windows" />
             
         
             
@@ -523,56 +721,74 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Installation-for-Windows" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Installation-for-Windows" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
         
       </url>
-    
-  
-    
-  
     
   
     
       <url>
-        <loc>https://jamulus.io/wiki/Network-Requirements</loc>
+        <loc>https://jamulus.io/wiki/Installation-for-iOS</loc>
         
             
         
             
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Network-Requirements" />
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Installation-for-iOS" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Network-Requirements" />
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Installation-for-iOS" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Network-Requirements" />
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Installation-for-iOS" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Network-Requirements" />
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Installation-for-iOS" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Network-Requirements" />
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Installation-for-iOS" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Installation-for-iOS" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Installation-for-iOS" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Installation-for-iOS" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Installation-for-iOS" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Installation-for-iOS" />
             
         
         
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
         
       </url>
+    
+  
+    
+  
+    
+  
     
   
     
@@ -581,6 +797,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Privacy-Statement</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Privacy-Statement" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Privacy-Statement" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Privacy-Statement" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Privacy-Statement" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Privacy-Statement" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Privacy-Statement" />
             
         
             
@@ -599,12 +839,63 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Privacy-Statement" />
             
         
+        
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://jamulus.io/wiki/QOS-Windows</loc>
+        
             
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Privacy-Statement" />
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/QOS-Windows" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/QOS-Windows" />
             
         
         
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -616,6 +907,30 @@
       <url>
         <loc>https://jamulus.io/contribute/Release-Process</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/contribute/Release-Process" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/contribute/Release-Process" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/contribute/Release-Process" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/contribute/Release-Process" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/contribute/Release-Process" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/contribute/Release-Process" />
             
         
             
@@ -634,12 +949,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/contribute/Release-Process" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/contribute/Release-Process" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -647,45 +958,36 @@
       </url>
     
   
-    
-      <url>
-        <loc>https://jamulus.io/wiki/Running-a-Private-Server</loc>
-        
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Running-a-Private-Server" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Running-a-Private-Server" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Running-a-Private-Server" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Running-a-Private-Server" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Running-a-Private-Server" />
-            
-        
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
-        
-        
-          <priority>0.3</priority>
-        
-      </url>
     
   
     
       <url>
         <loc>https://jamulus.io/wiki/Running-a-Server</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Running-a-Server" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Running-a-Server" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Running-a-Server" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Running-a-Server" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Running-a-Server" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Running-a-Server" />
             
         
             
@@ -704,12 +1006,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Running-a-Server" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Running-a-Server" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -719,37 +1017,59 @@
   
     
       <url>
-        <loc>https://jamulus.io/wiki/Server-Linux</loc>
+        <loc>https://jamulus.io/wiki/Server-Bandwidth</loc>
         
             
         
             
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Server-Linux" />
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Server-Bandwidth" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Server-Linux" />
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Server-Bandwidth" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Server-Linux" />
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Server-Bandwidth" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Server-Linux" />
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Server-Bandwidth" />
             
         
             
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Server-Linux" />
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Server-Bandwidth" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Server-Bandwidth" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Server-Bandwidth" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Server-Bandwidth" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Server-Bandwidth" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Server-Bandwidth" />
             
         
         
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
         
       </url>
+    
+  
     
   
     
@@ -758,6 +1078,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Server-Troubleshooting</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Server-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Server-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Server-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Server-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Server-Troubleshooting" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Server-Troubleshooting" />
             
         
             
@@ -776,12 +1120,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Server-Troubleshooting" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Server-Troubleshooting" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -789,45 +1129,36 @@
       </url>
     
   
-    
-      <url>
-        <loc>https://jamulus.io/wiki/Server-Win-Mac</loc>
-        
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Server-Win-Mac" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Server-Win-Mac" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Server-Win-Mac" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Server-Win-Mac" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Server-Win-Mac" />
-            
-        
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
-        
-        
-          <priority>0.3</priority>
-        
-      </url>
     
   
     
       <url>
         <loc>https://jamulus.io/wiki/Software-Manual</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Software-Manual" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Software-Manual" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Software-Manual" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Software-Manual" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Software-Manual" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Software-Manual" />
             
         
             
@@ -846,12 +1177,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Software-Manual" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Software-Manual" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -861,47 +1188,36 @@
   
     
   
-    
-  
-    
-      <url>
-        <loc>https://jamulus.io/contribute/Statistics</loc>
-        
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/contribute/Statistics" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/contribute/Statistics" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/contribute/Statistics" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/contribute/Statistics" />
-            
-        
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/contribute/Statistics" />
-            
-        
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
-        
-        
-          <priority>0.3</priority>
-        
-      </url>
     
   
     
       <url>
         <loc>https://jamulus.io/contribute/Style-and-Tone</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/contribute/Style-and-Tone" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/contribute/Style-and-Tone" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/contribute/Style-and-Tone" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/contribute/Style-and-Tone" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/contribute/Style-and-Tone" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/contribute/Style-and-Tone" />
             
         
             
@@ -920,12 +1236,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/contribute/Style-and-Tone" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/contribute/Style-and-Tone" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -937,6 +1249,30 @@
       <url>
         <loc>https://jamulus.io/wiki/Tips-Tricks-More</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Tips-Tricks-More" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Tips-Tricks-More" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Tips-Tricks-More" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Tips-Tricks-More" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Tips-Tricks-More" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Tips-Tricks-More" />
             
         
             
@@ -955,12 +1291,63 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Tips-Tricks-More" />
             
         
+        
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://jamulus.io/wiki/Unregistered-Servers</loc>
+        
             
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/Tips-Tricks-More" />
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/wiki/Unregistered-Servers" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/Unregistered-Servers" />
             
         
         
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -972,6 +1359,30 @@
       <url>
         <loc>https://jamulus.io/wiki/</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/wiki/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/wiki/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/wiki/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/wiki/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/wiki/" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/wiki/" />
             
         
             
@@ -990,12 +1401,63 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/wiki/" />
             
         
+        
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://jamulus.io/contribute/po4a-Setup-Explained</loc>
+        
             
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/wiki/" />
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/contribute/po4a-Setup-Explained" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/contribute/po4a-Setup-Explained" />
             
         
         
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -1009,6 +1471,30 @@
       <url>
         <loc>https://jamulus.io/kb/</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/kb/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/kb/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/kb/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/kb/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/kb/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/kb/index.html" />
             
         
             
@@ -1027,12 +1513,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/kb/index.html" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/kb/index.html" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -1044,6 +1526,30 @@
       <url>
         <loc>https://jamulus.io/kb/2/</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/kb/2/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/kb/2/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/kb/2/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/kb/2/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/kb/2/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/kb/2/index.html" />
             
         
             
@@ -1062,12 +1568,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/kb/2/index.html" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/kb/2/index.html" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -1079,6 +1581,30 @@
       <url>
         <loc>https://jamulus.io/kb/3/</loc>
         
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/kb/3/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/kb/3/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/kb/3/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/kb/3/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/kb/3/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/kb/3/index.html" />
             
         
             
@@ -1097,12 +1623,8 @@
               <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/kb/3/index.html" />
             
         
-            
-              <xhtml:link rel="alternate" hreflang="pt" href="https://jamulus.io/pt/kb/3/index.html" />
-            
         
-        
-          <lastmod>2021-09-15T13:36:46+00:00</lastmod>
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
         
         
           <priority>0.3</priority>
@@ -1110,6 +1632,115 @@
       </url>
     
   
+    
+      <url>
+        <loc>https://jamulus.io/kb/4/</loc>
+        
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="zh_CN" href="https://jamulus.io/zh_CN/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nb_NO" href="https://jamulus.io/nb_NO/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="ko_KR" href="https://jamulus.io/ko_KR/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_BR" href="https://jamulus.io/pt_BR/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="pt_PT" href="https://jamulus.io/pt_PT/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="nl" href="https://jamulus.io/nl/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="es" href="https://jamulus.io/es/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="de" href="https://jamulus.io/de/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="it" href="https://jamulus.io/it/kb/4/index.html" />
+            
+        
+            
+              <xhtml:link rel="alternate" hreflang="fr" href="https://jamulus.io/fr/kb/4/index.html" />
+            
+        
+        
+          <lastmod>2024-07-12T17:42:32+00:00</lastmod>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+    
+  
+  
+    
+      <url>
+        <loc>/kb/2023/07/30/Server-Metadata.html</loc>
+        <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/kb/2022/08/04/Translating-po-files.html</loc>
+        <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/kb/2022/03/04/Alternative-Install-Methods.html</loc>
+        <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/kb/2022/02/01/Midi-Mixerboard-Control.html</loc>
+        <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/kb/2022/01/26/Routing-JACK-Windows.html</loc>
+        <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/kb/2022/01/25/Related-Projects.html</loc>
+        <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+    
   
     
       <url>
